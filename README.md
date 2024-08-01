@@ -1,9 +1,12 @@
 # Unveiling the Cannibalisation Effects in Renewable Energy: Empirical Insights and Implications for Battery Integration 
 
 April 2024
+
 Lifang Wang 
+
 Mario Samano (Supervisor)
-HEC Montréal
+
+HEC Montréal (Full access: https://hecmontreal.on.worldcat.org/oclc/1440099550)
 
 Abstract 
 
