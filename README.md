@@ -1,4 +1,4 @@
-# Unveiling the Cannibalisation Effects in Renewable Energy: Empirical Insights and Implications for Battery Integration 
+### Unveiling the Cannibalisation Effects in Renewable Energy: Empirical Insights and Implications for Battery Integration 
 
 April 2024
 
